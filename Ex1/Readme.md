@@ -40,7 +40,7 @@
 
 1） 使用fork()创建子进程，形成以下父子关系：
 
-![img](file:///C:/Users/Acer/AppData/Local/Packages/microsoft.office.desktop_8wekyb3d8bbwe/AC/%23!oice_16_974fa576_32c1d314_6c6/Temp/msohtmlclip1/01/clip_image001.gif)
+![img](Readme.assets/clip_image001.gif)
 
  
 
